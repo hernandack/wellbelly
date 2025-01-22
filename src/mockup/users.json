@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sophie Martinez",
+      "username": "bakewithsophie",
+      "email": "sophie.martinez@example.com",
+      "password": "hashed_password_123",
+      "country": "USA",
+      "joinDate": "2023-02-14",
+      "preferences": {
+        "cuisine": ["Mexican", "Italian"],
+        "diet": "Vegetarian",
+        "favorites": ["Desserts", "Breads", "Quick Snacks"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Kumar",
+      "username": "raj_cooks_easy",
+      "email": "rajesh.kumar@example.com",
+      "password": "hashed_password_456",
+      "country": "India",
+      "joinDate": "2022-08-21",
+      "preferences": {
+        "cuisine": ["Indian", "Thai"],
+        "diet": "Non-Vegetarian",
+        "favorites": ["Spicy Curries", "Quick Weekday Meals"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Emily Carter",
+      "username": "emily_foodieblog",
+      "email": "emily.carter@example.com",
+      "password": "hashed_password_789",
+      "country": "Canada",
+      "joinDate": "2023-05-12",
+      "preferences": {
+        "cuisine": ["French", "Japanese"],
+        "diet": "Pescatarian",
+        "favorites": ["Seafood", "Fine Dining", "Healthy Salads"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mateo Gonzalez",
+      "username": "mateo_meals",
+      "email": "mateo.gonzalez@example.com",
+      "password": "hashed_password_321",
+      "country": "Mexico",
+      "joinDate": "2023-01-20",
+      "preferences": {
+        "cuisine": ["Mexican", "American"],
+        "diet": "No Preference",
+        "favorites": ["Budget Meals", "Comfort Food", "Street Food"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Aya Tanaka",
+      "username": "aya_kitchenjoy",
+      "email": "aya.tanaka@example.com",
+      "password": "hashed_password_654",
+      "country": "Japan",
+      "joinDate": "2022-04-05",
+      "preferences": {
+        "cuisine": ["Japanese", "Korean"],
+        "diet": "Vegan",
+        "favorites": ["Plant-Based Meals", "Fermented Foods", "Quick Bento Ideas"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Administrator",
+      "username": "admin",
+      "email": "admin@vuechef.org",
+      "password": "admin",
+      "country": "Indonesia",
+      "joinDate": "2022-04-05",
+      "preferences": {
+        "cuisine": ["Indonesian", "Japanese", "French"],
+        "diet": "No Preference",
+        "favorites": ["Meat", "Spicy Soup", "Quick Bento Ideas"]
+      }
+    }
+  ]
+}

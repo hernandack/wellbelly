@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "caption": "Spaghetti Carbonara is a timeless Italian classic loved for its creamy texture and savory flavor. This dish combines pasta with a rich sauce made of eggs, cheese, pancetta, and black pepper. It's the perfect comfort food for a quick yet impressive dinner.",
+    "author": "Chef Mario",
+    "serving": 4,
+    "createdAt": "2024-12-23T10:00:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?q=80&w=1380&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cookTime": 25,
+    "isJumbo": false,
+    "bgColor": "#f5e8c4",
+    "content": {
+      "ingredients": [
+        "400g spaghetti",
+        "150g pancetta",
+        "2 large eggs",
+        "1 cup grated Parmesan cheese",
+        "Salt and black pepper to taste"
+      ],
+      "utensils": ["Large pot", "Frying pan", "Mixing bowl", "Whisk", "Tongs"],
+      "steps": [
+        "Boil the spaghetti in salted water until al dente, then drain.",
+        "Fry the pancetta in a pan until crispy.",
+        "In a mixing bowl, whisk together the eggs, Parmesan cheese, salt, and pepper.",
+        "Combine the hot pasta with the pancetta and remove from heat.",
+        "Quickly mix in the egg and cheese mixture, stirring until creamy."
+      ]
+    }
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "caption": "This Margherita Pizza brings the taste of Italy right to your home. With a simple combination of fresh basil, mozzarella, and tomato sauce on a crisp crust, it's a celebration of fresh ingredients. Perfect for pizza night or any casual gathering.",
+    "author": "Chef Luigi",
+    "serving": 2,
+    "createdAt": "2024-12-21T14:30:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cookTime": 30,
+    "isJumbo": true,
+    "bgColor": "#f4dada",
+    "content": {
+      "ingredients": [
+        "1 pizza dough ball",
+        "1/2 cup tomato sauce",
+        "200g fresh mozzarella",
+        "Fresh basil leaves",
+        "1 tbsp olive oil"
+      ],
+      "utensils": ["Pizza stone or baking sheet", "Rolling pin", "Basting brush", "Oven"],
+      "steps": [
+        "Preheat the oven to 250°C (475°F).",
+        "Roll out the pizza dough into a thin circle.",
+        "Spread tomato sauce evenly over the dough.",
+        "Top with mozzarella slices and fresh basil leaves.",
+        "Bake for 8-10 minutes until the crust is golden and the cheese bubbles."
+      ]
+    }
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "caption": "Chicken Tikka Masala is a crowd-pleaser that features marinated chicken in a creamy tomato-based sauce. This Indian-inspired dish is rich in spices, making it both flavorful and aromatic. Serve it with naan or rice for a complete meal.",
+    "author": "Chef Ayesha",
+    "serving": 5,
+    "createdAt": "2024-12-20T18:45:00Z",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05iAGEzhnPMPePF9ITzh4au7bNx-1kx08lA&s",
+    "cookTime": 40,
+    "isJumbo": false,
+    "bgColor": "#fae1b4",
+    "content": {
+      "ingredients": [
+        "500g chicken breast, diced",
+        "1 cup plain yogurt",
+        "2 tbsp tikka masala spice mix",
+        "1 onion, chopped",
+        "2 cups canned tomato puree",
+        "1 cup heavy cream",
+        "Salt and pepper to taste"
+      ],
+      "utensils": ["Mixing bowl", "Large skillet", "Wooden spoon", "Knife and cutting board"],
+      "steps": [
+        "Marinate the chicken in yogurt and tikka masala spice mix for at least 2 hours.",
+        "In a skillet, sauté the onion until translucent.",
+        "Add the marinated chicken and cook until browned.",
+        "Stir in the tomato puree and simmer for 15 minutes.",
+        "Pour in the cream, season with salt and pepper, and simmer for another 5 minutes."
+      ]
+    }
+  },
+  {
+    "name": "Vegan Buddha Bowl",
+    "caption": "A Vegan Buddha Bowl is a colorful and nutrient-packed meal that's as beautiful as it is delicious. Filled with fresh veggies, grains, and a flavorful dressing, it’s a versatile dish for any time of day. Customize it with your favorite toppings for a personal touch.",
+    "author": "Chef Zoe",
+    "serving": 1,
+    "createdAt": "2024-12-19T09:15:00Z",
+    "thumbnail": "https://simplyceecee.co/wp-content/uploads/2018/07/veganbuddhabowl-2.jpg",
+    "cookTime": 15,
+    "isJumbo": false,
+    "bgColor": "#d5f5dc",
+    "content": {
+      "ingredients": [
+        "1/2 cup quinoa",
+        "1/2 avocado, sliced",
+        "1/2 cup roasted sweet potatoes",
+        "1/4 cup chickpeas",
+        "Mixed greens",
+        "Tahini dressing"
+      ],
+      "utensils": ["Small pot", "Knife and cutting board", "Bowl", "Fork"],
+      "steps": [
+        "Cook the quinoa according to package instructions.",
+        "Prepare the sweet potatoes by roasting them in the oven.",
+        "Assemble the bowl with quinoa, sweet potatoes, chickpeas, and greens.",
+        "Add sliced avocado on top.",
+        "Drizzle with tahini dressing and serve."
+      ]
+    }
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "caption": "Chocolate Lava Cake is the ultimate indulgence for chocolate lovers. With a gooey molten center, it’s a dessert that never fails to impress. Serve it with a scoop of vanilla ice cream for a truly decadent experience.",
+    "author": "Chef Pierre",
+    "serving": 2,
+    "createdAt": "2024-12-18T20:00:00Z",
+    "thumbnail": "https://www.melskitchencafe.com/wp-content/uploads/2023/01/updated-lava-cakes7.jpg",
+    "cookTime": 20,
+    "isJumbo": false,
+    "bgColor": "#e0c1ff",
+    "content": {
+      "ingredients": [
+        "100g dark chocolate",
+        "100g unsalted butter",
+        "2 large eggs",
+        "1/2 cup sugar",
+        "1/4 cup flour"
+      ],
+      "utensils": ["Microwave-safe bowl", "Mixing bowl", "Whisk", "Ramekins", "Oven"],
+      "steps": [
+        "Melt the chocolate and butter together in a microwave-safe bowl.",
+        "In a separate bowl, whisk the eggs and sugar until fluffy.",
+        "Fold the melted chocolate mixture into the eggs.",
+        "Sift in the flour and mix until smooth.",
+        "Pour into greased ramekins and bake at 200°C (390°F) for 12-14 minutes."
+      ]
+    }
+  }
+]

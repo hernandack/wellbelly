@@ -1,0 +1,68 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sophie Martinez",
+      "occupation": "Home Baker",
+      "country": "USA",
+      "joinDate": "2023-02-14",
+      "reason": "VueChef helped me turn my passion for baking into a small online business. The community is so encouraging, and I've learned so many creative twists on classic recipes!"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Kumar",
+      "occupation": "Software Engineer",
+      "country": "India",
+      "joinDate": "2022-08-21",
+      "reason": "I never enjoyed cooking until I joined VueChef. Now, I can find quick, easy, and delicious recipes for my busy weekdays. The step-by-step video tutorials make cooking foolproof!"
+    },
+    {
+      "id": 3,
+      "name": "Emily Carter",
+      "occupation": "Food Blogger",
+      "country": "Canada",
+      "joinDate": "2023-05-12",
+      "reason": "VueChef is a goldmine for inspiration. I use it to discover unique recipes and engage with other food lovers around the world. It has elevated my blog content!"
+    },
+    {
+      "id": 4,
+      "name": "Liam O'Connor",
+      "occupation": "Restaurant Chef",
+      "country": "Ireland",
+      "joinDate": "2021-11-30",
+      "reason": "I love sharing restaurant-inspired dishes here. It’s amazing to see how others recreate them with their own personal touch. VueChef builds a real sense of culinary community."
+    },
+    {
+      "id": 5,
+      "name": "Aya Tanaka",
+      "occupation": "Stay-at-Home Mom",
+      "country": "Japan",
+      "joinDate": "2022-04-05",
+      "reason": "With VueChef, I’ve been able to cook healthier and more exciting meals for my family. The search filters for ingredients and quick recipes are a game-changer!"
+    },
+    {
+      "id": 6,
+      "name": "Mateo Gonzalez",
+      "occupation": "College Student",
+      "country": "Mexico",
+      "joinDate": "2023-01-20",
+      "reason": "As a student, I’m on a tight budget and short on time. VueChef’s affordable recipes and quick cooking tips make eating well both achievable and fun!"
+    },
+    {
+      "id": 7,
+      "name": "Fatima Al-Mansouri",
+      "occupation": "Nutritionist",
+      "country": "UAE",
+      "joinDate": "2021-09-10",
+      "reason": "VueChef provides a great space to share healthy and balanced recipes. I’ve connected with so many people who now trust my nutritional advice and meal plans."
+    },
+    {
+      "id": 8,
+      "name": "Hans Müller",
+      "occupation": "Retired Teacher",
+      "country": "Germany",
+      "joinDate": "2022-06-15",
+      "reason": "I started cooking after retirement, and VueChef has made the experience truly enjoyable. The variety of global recipes keeps me curious, and I feel part of a global family."
+    }
+  ]
+}

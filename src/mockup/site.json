@@ -1,0 +1,67 @@
+{
+  "appName": "VueChef",
+  "author": "Hernandack",
+  "tagline": "By anyone, for anyone - Explore, Share, and Create Recipes Worldwide!",
+  "description": "VueChef is the ultimate destination for food lovers and aspiring home cooks. Whether you're searching for mouthwatering homemade recipes or looking for restaurant-inspired dishes, VueChef has something for everyone. From comfort classics to global cuisines, users from all over the world can share their culinary creations, get inspired, and grow as chefs—both at home and professionally. VueChef brings together a thriving community where cooking enthusiasts can discover step-by-step recipes, connect with like-minded foodies, and build their personal collection of favorites. Whether you're a seasoned chef or a kitchen novice, VueChef makes cooking fun, simple, and accessible for all.",
+  "features": {
+    "recipeCreation": {
+      "id": "recipeCreation",
+      "thumbnail": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Create and Share Recipes",
+      "description": "Easily upload your favorite recipes with detailed step-by-step instructions, photos, and videos. Add personal tips, ingredient measurements, and customize serving sizes to suit your audience."
+    },
+    "globalCollection": {
+      "id": "globalCollection",
+      "thumbnail": "https://images.unsplash.com/photo-1590999679643-7056b785354f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "A Global Recipe Collection",
+      "description": "Explore a vast collection of recipes from around the world, contributed by home chefs and professional cooks alike. Filter by region, ingredients, cooking time, or dietary preferences like vegan, keto, or gluten-free."
+    },
+    "communityInteraction": {
+      "id": "communityInteraction",
+      "thumbnail": "https://images.unsplash.com/photo-1556909172-bd5315ff61a0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Engage with the Community",
+      "description": "Connect with food enthusiasts by commenting on recipes, sharing cooking experiences, and exchanging tips. Build a network with other users by following chefs and liking their recipes."
+    },
+    "favoritesAndCollections": {
+      "id": "favoritesAndCollections",
+      "thumbnail": "https://images.unsplash.com/photo-1514056052883-d017fddd0426?q=80&w=1406&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Save and Organize Recipes",
+      "description": "Save your favorite recipes to personalized collections. Organize by categories like 'Dinner Ideas', 'Quick Bites', 'Desserts', or even 'Must-Try Favorites'."
+    },
+    "restaurantInspired": {
+      "id": "restaurantInspired",
+      "thumbnail": "https://images.unsplash.com/photo-1542010589005-d1eacc3918f2?q=80&w=1492&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Restaurant-Inspired Recipes",
+      "description": "Recreate dishes from your favorite restaurants at home with step-by-step guides. Discover secret recipes shared by chefs or the community’s take on popular dishes."
+    },
+    "searchAndFilter": {
+      "id": "searchAndFilter",
+      "thumbnail": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Smart Search and Filters",
+      "description": "Find exactly what you’re looking for with advanced search options, including ingredients, cooking time, difficulty level, and dietary restrictions."
+    },
+    "multimediaIntegration": {
+      "id": "multimediaIntegration",
+      "thumbnail": "https://images.unsplash.com/photo-1593759608363-fde2fa65f5d7?q=80&w=1418&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Photos and Video Tutorials",
+      "description": "Bring recipes to life with vibrant step-by-step photos and video tutorials. Learn visually, making it easier to cook delicious meals confidently."
+    }
+  },
+  "additionalDetails": {
+    "communityDriven": "VueChef thrives on a growing community of passionate food lovers and creators, offering real-world insights, personal touches, and innovative twists to every dish.",
+    "mission": "To inspire creativity in the kitchen and create a global space where anyone can share, learn, and celebrate the art of cooking.",
+    "platform": "Web and Mobile-Friendly",
+    "audience": [
+      "Home Cooks",
+      "Food Enthusiasts",
+      "Professional Chefs",
+      "Baking Hobbyists",
+      "Families looking for simple meal ideas"
+    ],
+    "futureFeatures": [
+      "Recipe Rating and Reviews System",
+      "Shopping List Generator",
+      "AI-Based Recipe Suggestions"
+    ]
+  }
+}

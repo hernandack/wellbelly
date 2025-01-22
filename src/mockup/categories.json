@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "rice",
+      "label": "Rice"
+    },
+    {
+      "id": "noodle",
+      "label": "Noodle"
+    },
+    {
+      "id": "salad",
+      "label": "Salad"
+    },
+    {
+      "id": "chicken-duck",
+      "label": "Chicken/Duck"
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood"
+    },
+    {
+      "id": "desert",
+      "label": "Desert"
+    }
+  ]
+}
